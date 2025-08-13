@@ -1,0 +1,11 @@
+
+outputs/
+results/
+runs/*/artifacts/
+*.pt
+*.bin
+*.safetensors
+__pycache__/
+.venv/
+.env
+
