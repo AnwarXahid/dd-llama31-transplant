@@ -1,0 +1,15 @@
+{
+  "M1": {
+    "hidden_size": 3584,
+    "num_hidden_layers": 28,
+    "num_attention_heads": 28,
+    "intermediate_size": 18944
+  },
+  "M2": {
+    "hidden_size": 3584,
+    "num_hidden_layers": 28,
+    "num_attention_heads": 28,
+    "intermediate_size": 18944
+  },
+  "python": "3.9.18"
+}
